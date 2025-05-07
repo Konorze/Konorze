@@ -1,9 +1,9 @@
 <h1 align="center">Whois</h1>
 
 <p align="center">
-  💻 Code that speaks quietly, but solves loudly.<br>
-  🤖 Building bots, bypass systems & automation tools — platform independent.<br>
-  🕵️‍♂️ Focused on Python, Node.js, WebSockets & Cloudflare evasion.<br>
+  💻 Code that whispers, but solves loudly.<br>
+  🤖 I build bots, bypass systems, and automation tools — platform-independent and battle-tested.<br>
+  🕵️‍♂️ Passionate about Python, Node.js, WebSockets, and Cloudflare evasion.<br>
   🧩 Clean logic. No noise. Just results.
 </p>
 
