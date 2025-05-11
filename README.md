@@ -1,15 +1,15 @@
-<h1 align="center">Whois</h1>
+# Whois
 
 <p align="center">
-  💻 Code that whispers, but solves loudly.<br>
-  🤖 I build bots, bypass systems, and automation tools — platform-independent and battle-tested.<br>
-  🕵️‍♂️ Passionate about Python, Node.js, WebSockets, and Cloudflare evasion.<br>
-  🧩 Clean logic. No noise. Just results.
+  💻 I write code that powers solutions to complex problems.<br>
+  ~ Passionate about building bots, bypassing protections, and automating processes.<br>
+  ~ Focused on clean, efficient code — no noise, just results.<br>
+  ~ Expertise in Python, Node.js, WebSockets, and Cloudflare bypass techniques.
 </p>
 
 ---
 
-### 🧠 Stack & Skills
+### ~ Stack & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,10 +19,9 @@
 
 ---
 
-### 🛠️ Tools & OS
+### ~ Tools & OS
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Windows 7](https://img.shields.io/badge/Windows_7-003399?style=for-the-badge&logo=windows&logoColor=white)
 ![Terminal](https://img.shields.io/badge/CLI%20Warrior-black?style=for-the-badge)
 
 ---
@@ -37,5 +36,13 @@
 
 ### 👁️‍🗨️ Contact
 - 💬 Discord: `againmehaha`
-- 🌐 Telegram: [https://t.me/Whois137)
+- 🌐 Telegram: [@Whois137](https://t.me/Whois137)
+
+Feel free to reach out — I’m always up for collaboration and new ideas!
+
+---
+
+**Thanks for visiting my GitHub!**  
+If you’ve got any questions or are interested in collaborating, don’t hesitate to get in touch.  
+Let's make things happen.
 
