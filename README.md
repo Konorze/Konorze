@@ -36,7 +36,6 @@
 
 ### 👁️‍🗨️ Contact
 - 💬 Discord: `againmehaha`
-- 🌐 Telegram: [@Whois137](https://t.me/Whois137)
 
 Feel free to reach out — I’m always up for collaboration and new ideas!
 
