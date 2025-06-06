@@ -3,7 +3,7 @@
 <p align="center">
   💻 I write code that powers solutions to complex problems.<br>
   ~ Passionate about building bots, bypassing protections, and automating processes.<br>
-  ~ Focused on clean, efficient code — no noise, just results.<br>
+  ~ Focused on clean, efficient code - no noise, just results.<br>
   ~ Expertise in Python, Node.js, WebSockets, and Cloudflare bypass techniques.
 </p>
 
